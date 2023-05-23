@@ -35,37 +35,37 @@ const Banner = () => {
                             repeat={Infinity}
                         /></h1>
                         <h2 data-aos="fade-right"
-                            data-aos-duration="3000" className='text-[15] md:text-[20px] mt-4 font-serif text-white'>Hi..! Im</h2>
+                            data-aos-duration="2000" className='text-[15] md:text-[20px] mt-4 font-serif text-white'>Hi..! Im</h2>
                         <h3 data-aos="fade-left"
-                            data-aos-duration="3000" className='text-[25px] md:text-[35px] text-white font-serif'>Md Morsalin Islam</h3>
+                            data-aos-duration="2000" className='text-[25px] md:text-[35px] text-white font-serif'>Md Morsalin Islam</h3>
                         <p data-aos="fade-up"
-                            data-aos-duration="3000" className='text-[13px] md:text-[20px] mt-4 text-white font-serif'>~~~ Frontend Web Developer || React Js || JavaScript ~~~</p>
+                            data-aos-duration="2000" className='text-[13px] md:text-[20px] mt-4 text-white font-serif'>~~~ Frontend Web Developer || React Js || JavaScript ~~~</p>
                     </div>
                     <div className='flex justify-center mt-8 md:mt-0 md:hidden'>
                         {/* <Link to={}> */}
                         <BsFacebook data-aos="fade-right"
-                            data-aos-duration="3000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsFacebook>
+                            data-aos-duration="2000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsFacebook>
                         {/* </Link> */}
                         {/* <Link to={}> */}
                         <BsInstagram data-aos="fade-up"
-                            data-aos-duration="3000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsInstagram>
+                            data-aos-duration="2000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsInstagram>
                         {/* </Link> */}
                         {/* <Link to={}> */}
 
                         <BsTwitter data-aos="fade-down"
-                            data-aos-duration="3000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsTwitter>
+                            data-aos-duration="2000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsTwitter>
                         {/* </Link> */}
                         {/* <Link to={}> */}
                         <FiLinkedin data-aos="fade-up"
-                            data-aos-duration="3000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></FiLinkedin>
+                            data-aos-duration="2000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></FiLinkedin>
                         {/* </Link> */}
                         {/* <Link to={}> */}
                         <BsGithub data-aos="fade-left"
-                            data-aos-duration="3000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsGithub>
+                            data-aos-duration="2000" className='text-[25px] mr-[20px] md:mr-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsGithub>
                         {/* </Link> */}
                     </div>
                     <div className='flex justify-center my-[50px]'>
-                        <img data-aos="zoom-in" data-aos-duration="3000" className='rounded-full w-[300px] h-[300px]' src={myPic} alt="My Pic" />
+                        <img data-aos="zoom-in" data-aos-duration="2000" className='rounded-full w-[300px] h-[300px]' src={myPic} alt="My Pic" />
                     </div>
                 </div>
             </div>

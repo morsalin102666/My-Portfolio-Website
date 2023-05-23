@@ -1,12 +1,11 @@
 import myPic from '../../../assets/My Pic 2.jpg'
-import './About.css'
 
 import { BiRightArrowAlt } from 'react-icons/bi';
 const About = () => {
     return (
         <div className="text-white bg-[#2C2C6C]">
             <div className="md:flex justify-between items-center py-[50px] md:py-[190px] px-[4%] md:px-[10%]">
-                <div data-aos="zoom-in" data-aos-duration="3000" className="md:w-[60%]">
+                <div data-aos="zoom-in" data-aos-duration="2000" className="md:w-[60%]">
                     <div className='md:ps-[50px]'>
                         <div className='flex items-center mb-5'>
                             <h1 className='text-[30px] font-semibold'>My About</h1>
@@ -16,7 +15,7 @@ const About = () => {
                         <button className='btn btn-outline btn-secondary rounded-md mt-10'>Read More</button>
                     </div>
                 </div>
-                <div data-aos="zoom-in" data-aos-duration="3000" className="md:w-[40%] mt-[100px] md:mt-0">
+                <div data-aos="zoom-in" data-aos-duration="2000" className="md:w-[40%] mt-[100px] md:mt-0">
                     <div className='w-full h-full flex justify-center items-center hover:ease-in duration-300'>
                         <img className='w-[400px] rounded-lg' src={myPic} alt="My Pic" />
                     </div>
