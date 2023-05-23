@@ -9,7 +9,7 @@ function App() {
       <div className='hidden md:block w-[5%] h-[100vh] bg-[rgb(21,28,72)] border-r-[1px]'>
         <SocalMidea></SocalMidea>
       </div>
-      <div className="md:w-[15%] md:h-[100vh] bg-[rgb(16,0,40)]">
+      <div className="md:w-[15%] md:h-[100vh] border-r-[1px] bg-[rgb(16,0,40)]">
         <NaveItems></NaveItems>
       </div>
       <div className='w-full md:w-[80%]'>
