@@ -4,7 +4,7 @@ import { FiLinkedin } from 'react-icons/fi';
 const SocalMidea = () => {
     return (
         <div className="flex justify-center">
-            <div className='mt-[400px]'>
+            <div className='mt-[450px]'>
                 {/* <Link to={}> */}
                     <BsFacebook data-aos="fade-down"
                         data-aos-duration="3000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsFacebook>
@@ -27,7 +27,7 @@ const SocalMidea = () => {
                         data-aos-duration="3000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsGithub>
                 {/* </Link> */}
                 <div data-aos="fade-up"
-                    data-aos-duration="3000" className='w-[3px] ml-[11px] mt-[80px] h-[100px] mb-[10px] bg-[rgb(198,215,236)]'></div>
+                    data-aos-duration="3000" className='w-[3px] ml-[11px] mt-[70px] h-[100px] mb-[10px] bg-[rgb(198,215,236)]'></div>
             </div>
         </div>
     );
