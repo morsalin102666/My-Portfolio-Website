@@ -1,17 +1,18 @@
-import { Link } from 'react-router-dom';
 import logo from '../../assets/My Logho .png'
 const NaveItems = () => {
     return (
         <div className='hidden md:block'>
             <div className="flex justify-center mt-[40px]">
                 <div>
-                    <img className='w-[200px] h-[140px]' src={logo} alt="sete logho" />
+                    <a href="#banner">
+                        <img className='w-[200px] h-[140px]' src={logo} alt="sete logho" />
+                    </a>
                     <div className='text-center mt-[60px]'>
-                        <Link className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>HOME</Link>
-                        <Link className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>ABOUT</Link>
-                        <Link className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>EXPERIENCE</Link>
-                        <Link className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>PROJECTS</Link>
-                        <Link className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>CONTACT</Link>
+                        <a href='#banner' className='text-[#d9d9d9cc] scroll-smooth font-medium block mb-[40px] hover:text-blue-300 hover:underline'>HOME</a>
+                        <a href='#about' className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>ABOUT</a>
+                        <a href='#experience' className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>EXPERIENCE</a>
+                        <a href='#projects' className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>PROJECTS</a>
+                        <a href='#contact' className='text-[#d9d9d9cc] font-medium block mb-[40px] hover:text-blue-300 hover:underline'>CONTACT</a>
                     </div>
                     <div className='text-center mt-[300px]'>
                         <p className='text-blue-400'>Designe & Development</p>

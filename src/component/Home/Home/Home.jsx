@@ -9,7 +9,7 @@ import Banner from "../Banner/Banner";
 
 const Home = () => {
     return (
-        <div>
+        <div className="scroll-smooth">
             <div className='sticky z-10 top-0'>
                 <BannerHeader></BannerHeader>
             </div>

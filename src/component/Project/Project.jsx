@@ -7,7 +7,7 @@ import project5 from '../../assets/project/looplab.png'
 import project6 from '../../assets/project/mizuxe.png'
 const Project = () => {
     return (
-        <div className="px-[4%] md:px-[10%] pb-12 md:py-[200px] bg-[#2C2C6C]">
+        <div id='projects' className="px-[4%] md:px-[10%] pb-12 md:py-[200px] bg-[#2C2C6C]">
             <h1 className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center'>Project</h1>
             <h1 className='text-[25px] text-[#d9d9d9cc] mb-5'>Recent Work</h1>
             <div className="md:grid md:grid-cols-3 gap-5">
