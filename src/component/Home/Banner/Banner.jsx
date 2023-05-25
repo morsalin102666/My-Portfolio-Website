@@ -3,14 +3,10 @@ import { FiLinkedin } from 'react-icons/fi';
 import { TypeAnimation } from 'react-type-animation';
 // import { Link } from 'react-router-dom';
 import myPic from '../../../assets/My Pic.jpg'
-import { BannerHeader } from '../../BannerHeader/BannerHeader';
 
 const Banner = () => {
     return (
         <div className=" bg-[#2C2C6C]">
-            <div className='sticky z-10 top-0'>
-                <BannerHeader></BannerHeader>
-            </div>
             <div className="flex justify-center">
                 <div className='mt-[60px] md:mt-[170px]'>
                     <div className='text-center text-[]'>

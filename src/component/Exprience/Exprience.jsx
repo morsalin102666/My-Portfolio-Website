@@ -13,7 +13,7 @@ import { IoCodeWorkingSharp } from 'react-icons/io5';
 
 const Exprience = () => {
     return (
-        <div className='py-[50px] md:py-0 px-[4%] md:px-[10%] bg-[#2C2C6C] md:mb-0 md:pb-[100px]'>
+        <div className='py-[50px] md:py-0 px-[4%] md:px-[10%] bg-[#2C2C6C] md:mb-0'>
             <h1 data-aos="zoom-in"
                 data-aos-duration="2000" className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center md:pt-[150px]'>Experience</h1>
             <div className="md:flex justify-between items-center">
