@@ -39,7 +39,7 @@ const Exprience = () => {
                                 <span className='text-[#d9d9d9cc] text-[14px]'>P-Hero</span>
                             </div>
                         </div>
-                        <div data-aos="fade-left"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-x-[#ee43d1] hover:border-x-[#151C48] border-b-4 hover:bg-[#2C2C6C] border-b-[#ee43d1]  hover:border-b-[#151C48] items-center bg-[#151C48]'>
                             <div className='py-9 text-center'>
                                 <div className='flex justify-center mb-2'>
@@ -54,15 +54,15 @@ const Exprience = () => {
                 <div className="w-full md:w-[70%] mt-[150px] md:mt-0">
                     <h1 className='text-[25px] text-[#d9d9d9cc] mb-5'>Exprience</h1>
                     <div className=" md:grid md:grid-cols-3 gap-4">
-                        <div data-aos="fade-down"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#E44D26] border-b-4 hover:bg-[#2C2C6C] border-b-[#E44D26] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={html} alt="html" />
                         </div>
-                        <div data-aos="fade-down"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#2062AF] border-b-4 hover:bg-[#2C2C6C] border-b-[#2062AF] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={css} alt="css" />
                         </div>
-                        <div data-aos="fade-down"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#880AFB] border-b-4 hover:bg-[#2C2C6C] border-b-[#880AFB] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={boostrap} alt="boostrap" />
                         </div>
@@ -78,17 +78,17 @@ const Exprience = () => {
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#61DBFB] border-b-4 hover:bg-[#2C2C6C] border-b-[#61DBFB] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={react} alt="react" />
                         </div>
-                        <div data-aos="fade-up"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#F57F17] border-b-4 hover:bg-[#2C2C6C]  border-b-[#F57F17] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={firebase} alt="firebase" />
                         </div>
-                        <div data-aos="fade-up"
+                        <div data-aos="zoom-in"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#d9d9d9cc] border-b-4 hover:bg-[#2C2C6C] border-b-[#d9d9d9cc] items-center bg-[#151C48]'>
                             {/* <img className='w-[100px] py-[35px] text-white ' src={express} alt="express" /> */}
                             <p className='text-white text-[35px] py-16 md:py-0'>Express</p>
                         </div>
-                        <div data-aos="fade-up"
-                            data-aos-duration="3000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#499D4A] border-b-4 hover:bg-[#2C2C6C] border-b-[#499D4A] items-center bg-[#151C48]'>
+                        <div data-aos="zoom-in"
+                            data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#499D4A] border-b-4 hover:bg-[#2C2C6C] border-b-[#499D4A] items-center bg-[#151C48]'>
                             <img className='w-[100px] py-[35px] ' src={mongodb} alt="mongodb" />
                         </div>
                     </div>

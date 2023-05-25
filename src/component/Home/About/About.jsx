@@ -16,8 +16,8 @@ const About = () => {
                     </div>
                 </div>
                 <div data-aos="zoom-in" data-aos-duration="2000" className="md:w-[40%] mt-[100px] md:mt-0">
-                    <div className='w-full h-full flex justify-center items-center hover:ease-in duration-300'>
-                        <img className='w-[400px] rounded-lg' src={myPic} alt="My Pic" />
+                    <div className='w-full h-full flex justify-center items-center'>
+                        <img className='w md:w-[400px] rounded-lg' src={myPic} alt="My Pic" />
                     </div>
                 </div>
             </div>

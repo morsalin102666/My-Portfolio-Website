@@ -7,7 +7,7 @@ import project5 from '../../assets/project/looplab.png'
 import project6 from '../../assets/project/mizuxe.png'
 const Project = () => {
     return (
-        <div className="px-[4%] md:px-[10%] md:py-[200px] bg-[#2C2C6C]">
+        <div className="px-[4%] md:px-[10%] pb-12 md:py-[200px] bg-[#2C2C6C]">
             <h1 className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center'>Project</h1>
             <h1 className='text-[25px] text-[#d9d9d9cc] mb-5'>Recent Work</h1>
             <div className="md:grid md:grid-cols-3 gap-5">
@@ -88,7 +88,7 @@ const Project = () => {
                     </div>
                 </div>
                 <div data-aos="zoom-in"
-                    data-aos-duration="2000" className="bg-[#151C48] hover:bg-[#2C2C6C] hover:border flex justify-between mb-6 md:mb-0 rounded-md">
+                    data-aos-duration="2000" className="bg-[#151C48] hover:bg-[#2C2C6C] hover:border flex justify-between rounded-md">
                     <div className='w-[45%]'>
                         <img src={project6} className='w-full h-full rounded-md' alt="Project" />
                     </div>

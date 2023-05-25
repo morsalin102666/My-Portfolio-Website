@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <div className=" bg-[#2C2C6C]">
             <div className="flex justify-center">
-                <div className='mt-[60px] md:mt-[130px]'>
+                <div className='mt-[120px] md:mt-[130px]'>
                     <div className='text-center text-[]'>
                         <h1 className='text-[27px] md:text-[50px] text-[white] font-semibold font-serif'><TypeAnimation
                             sequence={[
