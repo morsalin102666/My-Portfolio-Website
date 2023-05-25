@@ -11,8 +11,8 @@ const About = () => {
                             <h1 className='text-[30px] font-semibold'>My About</h1>
                             <BiRightArrowAlt className='text-[30px] ml-5'></BiRightArrowAlt>
                         </div>
-                        <p className='text-[#d9d9d9cc] leading-7'>My name is Haniful Islam (Modhupurno)❤ . I am from Dinajpur, Bangladesh. Currently I study at Dinajpur Poltechnic Institute, Diploma in Computer Technology.Since my childhood, I love art and design. I always try to design stuff with my unique point of veiw. I also love to create things that can be usefull to other. I started coding since I was in high school. Coding is also an art for me. I love it and now I have the opportunity to design along with the coding. I find it realy interesting and I enjoyed the process a lot</p>
-                        <button className='btn btn-outline btn-secondary rounded-md mt-10'>Read More</button>
+                        <p className='text-[#d9d9d9cc] leading-7'>My name is 🥰🥰... Md. Morsalin Islam ...🥰🥰 My house is in Nilphamari Sadar. I am student of Computer Technology in Dinajpur Polytechnic Institute 2018-19 session. My childhood dream is to become a Software Engineer. I will do the coding. Coding is my wish Coding is my dream. I spend most of my time coding. And I try to learn something new every day by searching Google in my spare time.</p>
+                        <button className='text-black font-semibold bg-[#409EFF] hover:bg-[#2C2C6C] hover:border hover:text-white hover:border-[#409EFF] px-5 py-[10px] rounded-lg mt-10'>Read More</button>
                     </div>
                 </div>
                 <div data-aos="zoom-in" data-aos-duration="2000" className="md:w-[40%] mt-[100px] md:mt-0">

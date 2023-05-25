@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <div className=" bg-[#2C2C6C]">
             <div className="flex justify-center">
-                <div className='mt-[60px] md:mt-[170px]'>
+                <div className='mt-[60px] md:mt-[130px]'>
                     <div className='text-center text-[]'>
                         <h1 className='text-[27px] md:text-[50px] text-[white] font-semibold font-serif'><TypeAnimation
                             sequence={[
@@ -62,6 +62,9 @@ const Banner = () => {
                     </div>
                     <div className='flex justify-center my-[50px]'>
                         <img data-aos="zoom-in" data-aos-duration="2000" className='rounded-full w-[300px] h-[300px]' src={myPic} alt="My Pic" />
+                    </div>
+                    <div className='flex justify-center'>
+                        <button className="font-semibold bg-[#409EFF] hover:bg-[#2C2C6C] hover:border hover:text-white hover:border-[#409EFF] px-5 py-[10px] rounded-lg">Contact Me</button>
                     </div>
                 </div>
             </div>

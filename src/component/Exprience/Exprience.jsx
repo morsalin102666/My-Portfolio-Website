@@ -14,8 +14,7 @@ import { IoCodeWorkingSharp } from 'react-icons/io5';
 const Exprience = () => {
     return (
         <div className='py-[50px] md:py-0 px-[4%] md:px-[10%] bg-[#2C2C6C] md:mb-0'>
-            <h1 data-aos="zoom-in"
-                data-aos-duration="2000" className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center md:pt-[150px]'>Experience</h1>
+            <h1 className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center md:pt-[150px]'>Experience</h1>
             <div className="md:flex justify-between items-center">
                 <div className="w-full md:w-[22%] md:mr-[4%]">
                     <h1 className='text-[25px] text-[#d9d9d9cc] mb-5'>Work</h1>
@@ -53,8 +52,7 @@ const Exprience = () => {
                     </div>
                 </div>
                 <div className="w-full md:w-[70%] mt-[150px] md:mt-0">
-                    <h1 data-aos="fade-down"
-                        data-aos-duration="2000" className='text-[25px] text-[#d9d9d9cc] mb-5'>Exprience</h1>
+                    <h1 className='text-[25px] text-[#d9d9d9cc] mb-5'>Exprience</h1>
                     <div className=" md:grid md:grid-cols-3 gap-4">
                         <div data-aos="fade-down"
                             data-aos-duration="2000" className='flex mb-[15px] md:mb-0 justify-center rounded-xl border-x border-[#E44D26] border-b-4 hover:bg-[#2C2C6C] border-b-[#E44D26] items-center bg-[#151C48]'>

@@ -6,28 +6,22 @@ const SocalMidea = () => {
         <div className="flex justify-center">
             <div className='mt-[450px]'>
                 {/* <Link to={}> */}
-                    <BsFacebook data-aos="fade-down"
-                        data-aos-duration="2000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsFacebook>
+                    <BsFacebook className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsFacebook>
                 {/* </Link> */}
                 {/* <Link to={}> */}
-                    <BsInstagram data-aos="fade-right"
-                        data-aos-duration="2000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsInstagram>
+                    <BsInstagram className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsInstagram>
                 {/* </Link> */}
                 {/* <Link to={}> */}
 
-                    <BsTwitter data-aos="fade-left"
-                        data-aos-duration="2000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsTwitter>
+                    <BsTwitter className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsTwitter>
                 {/* </Link> */}
                 {/* <Link to={}> */}
-                    <FiLinkedin data-aos="fade-up"
-                        data-aos-duration="2000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></FiLinkedin>
+                    <FiLinkedin className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></FiLinkedin>
                 {/* </Link> */}
                 {/* <Link to={}> */}
-                    <BsGithub data-aos="fade-right"
-                        data-aos-duration="2000" className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsGithub>
+                    <BsGithub className='text-[25px] mb-[40px] hover:text-blue-400 text-[rgb(198,215,236)]'></BsGithub>
                 {/* </Link> */}
-                <div data-aos="fade-up"
-                    data-aos-duration="2000" className='w-[3px] ml-[11px] mt-[70px] h-[100px] mb-[10px] bg-[rgb(198,215,236)]'></div>
+                <div className='w-[3px] ml-[11px] mt-[70px] h-[100px] mb-[10px] bg-[rgb(198,215,236)]'></div>
             </div>
         </div>
     );

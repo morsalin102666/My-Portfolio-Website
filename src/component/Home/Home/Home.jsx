@@ -1,6 +1,7 @@
 import { BannerHeader } from "../../BannerHeader/BannerHeader";
 import Contact from "../../Contact/Contact";
 import Exprience from "../../Exprience/Exprience";
+import Footer from "../../Footer/Footer";
 import GitHub from "../../GitHub/GitHub";
 import Project from "../../Project/Project";
 import About from "../About/About";
@@ -18,6 +19,7 @@ const Home = () => {
             <Project></Project>
             <GitHub></GitHub>
             <Contact></Contact>
+            <Footer></Footer>
         </div>
     );
 };
