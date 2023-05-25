@@ -9,7 +9,7 @@ export const BannerHeader = () => {
     return (
         <div>
             <div>
-                <div className="flex justify-between items-center px-[4%] md:px-[10%] w-[100%] h-[60px] bg-[#151C48]">
+                <div className="flex justify-between items-center px-[4%] md:px-[6%] lg:px-[10%] w-[100%] h-[60px] bg-[#151C48]">
                     <div onClick={() => setOpen(!open)} className="block md:hidden">
                         {
                             open === true ? <span className="text-white"><CgClose className="text-[30px]"></CgClose></span> : <span className="text-white"><HiMenuAlt1 className="text-[30px]"></HiMenuAlt1></span>

@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Contact = () => {
     return (
-        <div id='contact' className='py-[50px] md:py-10 px-[4%] md:px-[10%] bg-[#2C2C6C] md:mb-0'>
+        <div id='contact' className='py-[50px] md:py-10 px-[4%] md:px-[6%] lg:px-[10%] bg-[#2C2C6C] md:mb-0'>
             <h1 className='text-[30px] mb-[70px] md:mb-[50px] md:text-[50px] text-white font-semibold text-center md:pt-[150px]'>Contact Us</h1>
             <div className="md:flex justify-between md:pb-[100px]">
                 <div className="w-full md:w-[48%] text-white">
